@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "nodejs-theory",
+  "version": "1.0.0",
+  "description": "[Node JS - Быстрый Курс за 1 час](https://youtu.be/3aGSqasVPsI)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Laptev Dmitriy <dmitriy.zabi@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
